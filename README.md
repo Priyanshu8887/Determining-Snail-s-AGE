@@ -1,4 +1,4 @@
-# Determining-Snail-s-AGE
+# Marine Snails Age Prediction Model
 This work contains a machine learning model using all the four types of Regression, which is used to find the age of marine snails called as Abalones. Customarily, the age of abalone is determined by cutting the shell through the cone, staining it, and counting the number of rings through a microscope. But it is a tedious and time-consuming task. Therefore, other measurements, which are easier to obtain, are used to predict age.<br>
 ______
 Attributes: We have given eight attributes which includes
