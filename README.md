@@ -14,7 +14,7 @@ Rings is the target attribute others are features used for predicting rings.<br>
 
 Simple Linear Regression Model:
 - The accuracy for this model is around 74.681% for training data and around 74.859%.
-<img src = "https://drive.google.com/file/d/1586oU5sGTJ8YZBfwv_b3jyTXWQufMWYF/view">
+<img src = "https://drive.google.com/file/d/1586oU5sGTJ8YZBfwv_b3jyTXWQufMWYF/view?usp=drive_link">
 
 Multivariate Linear Regression Model:
 - The accuracy for this model is around 77.802% for training data and around 77.393%.
