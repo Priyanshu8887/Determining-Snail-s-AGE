@@ -32,6 +32,7 @@ Polynomial Regression Model:
 Multivariate Polynomial Regression Model:
 - For this still p = 5 is the best degree of polynomial, so the maximum accuracy is for p = 5..
 - The accuracy for this model is around 83.784% for training data and around 90.923%.
-![Screenshot 2024-02-15 112727](https://github.com/Priyanshu8887/Determining-Snail-s-AGE/assets/112472808/8597a9f4-9887-4bf0-a595-0cf7abfdda8f)
+
+  ![Screenshot 2024-02-15 112727](https://github.com/Priyanshu8887/Determining-Snail-s-AGE/assets/112472808/8597a9f4-9887-4bf0-a595-0cf7abfdda8f)
 
 - From the figure we can see after p = 5 accuracy with p is is almost constant, so p = 5 is the best degree of polynomial.
