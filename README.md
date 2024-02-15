@@ -14,7 +14,7 @@ Rings is the target attribute others are features used for predicting rings.<br>
 
 Simple Linear Regression Model:
 - The accuracy for this model is around 74.681% for training data and around 74.859%.
-<img src = "" >
+<img src = "https://drive.google.com/file/d/1586oU5sGTJ8YZBfwv_b3jyTXWQufMWYF/view" >
 
 Multivariate Linear Regression Model:
 - The accuracy for this model is around 77.802% for training data and around 77.393%.
@@ -23,10 +23,10 @@ Polynomial Regression Model:
 - For different value of degree of polynomial there is different accuracy.
 - To find the accurate value of p, I have used albow method which gives p = 5, so the maximum accuracy is for p = 5..
 - The accuracy for trainind data is 75.301% and for testing data 75.488%
-<img src = "" >
+<img src = "https://drive.google.com/file/d/1OhhsjNcGOYz4nzWH6iMygYOgZ0iAd-nv/view" >
 
 Multivariate Polynomial Regression Model:
 - For this still p = 5 is the best degree of polynomial, so the maximum accuracy is for p = 5..
 - The accuracy for this model is around 83.784% for training data and around 90.923%.
-<img src = "" >
+<img src = "https://drive.google.com/file/d/1b8nzGjrALCc1SWPH2WV4UgURMH6DxXo5/view" >
 - From the figure we can see after p = 5 accuracy with p is is almost constant, so p = 5 is the best degree of polynomial.
